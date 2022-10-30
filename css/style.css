@@ -908,6 +908,7 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
   color: #ffffff;
   background-color: #2196f3;
   font-family: inherit;
